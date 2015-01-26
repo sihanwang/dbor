@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=trmessaging-1.0.jar -DgroupId=com.thomsonreuters.messaging -DartifactId=trmessaging -Dversion=1.0 -Dpackaging=jar
